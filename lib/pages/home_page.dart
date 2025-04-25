@@ -156,8 +156,8 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: GestureDetector(
-                      child: Image.asset('assets/send.png'),
                       onTap: callGeminiModel,
+                      child: Image.asset('assets/send.png'),
                     ),
                   )
                 ],
