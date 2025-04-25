@@ -3,5 +3,6 @@
         "activityBar.background": "#3E2909",
         "titleBar.activeBackground": "#563A0C",
         "titleBar.activeForeground": "#FEFAF6"
-    }
+    },
+    "cmake.sourceDirectory": "C:/.projects/flutter/gemini_gpt/linux"
 }
